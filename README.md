@@ -68,3 +68,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Page Functionality 
+
+- Togglable Bell
+By click the button with the bell icon, the numbers of rows selected will be shown
+Pleae note that if nothing is selected (selected row === 0), nothing will be shown
+So if you would like to see the numbers, select at least one row from the table
+
+- Logout button
+The tab will be closed by confirming the popup message after clicking the logout button
+
+- Home button
+This is simply jsut a button without function
+
+- Menu button
+A menu will be shown when the button "Menu" is clicked
+
+- Back button
+This is simply jsut a button without function
+
+- Tab with Alarms, Node type, Critical, Major, Minor
+This section can be clicked to change the view of the table
+
+- Table
+Show data
+
